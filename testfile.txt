@@ -1,0 +1,3 @@
+Hello, it is snowing outside.
+Today is the 2nd of December.
+Goodbye.
